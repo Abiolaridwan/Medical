@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* section one */
+.sectionone {
+    background-image: url(./images/Rectangle\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.logo {
+    font-family: 'Mulish';
+    font-size: 24px;
+}
+span {
+    color: #0052FF;
+}
+.header {
+    padding: 20px;
+}
+.navbar ul {
+    display: flex;
+    gap: 25px;
+    font-family: 'Mulish';
+    font-size: 16px;
+    /* color: #FFFFFF; */
+}
+.header {
+    display: flex;
+    align-items: center;  
+    justify-content: space-between; 
+}
+.text {
+    text-align: center;
+    padding-top: 20rem;
+}
+.we {
+    font-family: 'Mulish';
+    font-size: 44px;
+}
+.full {
+    font-family: 'Mulish';
+    font-size: 80px;
+}
+.high {
+    font-family: 'Mulish';
+    font-size: 22px;
+}
+.btnone {
+    background-color: #0052FF;
+    color: #FFFFFF;
+    height: 3rem;
+    width: 8rem;
+    border: solid #0052FF;
+    font-family: 'Mulish';
+    font-size: 16px;
+}
+.icontexts {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.words {
+    color: #0052FF;
+    text-align: center;
+    font-family: 'Mulish';
+    font-size: 22px;
+}
+.icons {
+    text-align: center;
+}
+.openround {
+    font-family: 'Mulish';
+    font-size: 16px;
+}
+/* section two */
+.sectiontwo {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 1px 0px 1px 0px;
+}
+.ourdepartment {
+    text-align: center; 
+}
+.our {
+    font-family: 'Mulish';
+    font-size: 30px;
+}
+.lmedic {
+    font-family: 'Mulish';
+    font-size: 22px;
+}
+.uppericon {
+    display: flex;
+    justify-content: space-around;
+}
+.lowericon {
+    display: flex;
+    justify-content: space-around;
+}
+.blue {
+    padding: 60px;
+    background-color: #0052FF;
+    border-radius: 15px;
+    box-shadow: 2px 4px 8px  rgba(0, 0, 0, 0.2);
+}
+.white {
+    padding: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 4px 8px  rgba(0, 0, 0, 0.2);
+}
+/* section three */
+.sectionthree {
+    margin-bottom: 5rem;
+    background-color: rgba(255, 255, 255, 0);
+    height: 80vh;
+}
+.ourservices {
+    text-align: center; 
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Mulish';
+    font-size: 30px;
+    color: #3A3A3A;
+}
+.servicesoffer {
+    display: flex;
+    justify-content: space-around;
+    /* background-color: rgba(255, 255, 255, 0.104); */
+}
+.serviceone {
+    border: 1px solid blue;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-radius: 10px;
+    color: #3A3A3A;
+    justify-content: center;
+    width: 24rem;
+    height: 27rem;
+    padding-left: 20px;
+    box-shadow: 2px 4px 8px  rgba(0, 0, 0, 0.2);
+    height: 70vh;
+}
+.servicethree {
+    border: 1px solid blue;
+    background-color: #0052FF;
+    color: #3A3A3A;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-radius: 10px;
+    width: 24rem;
+    height: 27rem;
+    padding-left: 20px;
+    height: 70vh;
+}
+.icontext {
+    display: flex;
+    gap: 10px;
+}
+.prima {
+    font-family: 'Mulish';
+    font-size: 22px;
+    color: #0052FF;
+    font-weight: bold;
+}
+/* section four */
+.sectionfour {
+    height: 90vh;
+    padding-top: 40px;
+}
+.faqmain {
+    text-align: center; 
+    padding-bottom: 5rem;
+}
+.faqandimg {
+    display: flex;
+    justify-content: space-around
+}
+.accordion {
+    width: 45rem;
+}
+.askbtn {
+    padding: 10px;
+    background-color: #0052FF;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 20px;
+}
+/* section five */
+.ourspecialist{
+    padding-bottom: 20px;
+}
+.dateandtime {
+    display: flex;
+    justify-content: space-between
+}
+/* section six */
+.sectionsix {
+    background-image: url(./images/Rectangle\ 42.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    color: white;
+    text-align: center;
+    margin: 5rem;
+}
+.star {
+    /* display: flex; */
+}
